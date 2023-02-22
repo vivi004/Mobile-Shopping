@@ -1,0 +1,21 @@
+body{
+    background-color: darkgrey;
+}
+.vivo{
+    background-color: rgb(235, 224, 234);
+}
+.feat{
+    background-color: aquamarine;
+}
+.button{
+    background-color: rgb(237, 236, 238);
+    height: 60px;
+    width: 200px;
+}
+.button:hover{
+    background-color: rgb(240, 35, 35);
+
+}
+.rate{
+    transform: translate(160px,-140px);
+}

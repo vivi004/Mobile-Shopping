@@ -1,0 +1,58 @@
+body{
+    background-color: rgb(57, 167, 201);
+}
+.non{
+    background-color: rgb(234, 245, 245);
+    height: fit-content;
+    width: fit-content;
+    padding-bottom: 0.5%;
+transform: translate(500px,20px);
+color: rgb(14, 161, 100);
+}
+.image{
+    transform: translate(700px,-400px);
+}
+
+.brand{
+    background-color: blueviolet;
+}
+.visal:hover{
+    background-color: bisque;
+    height: 4%;
+    width: 8%;
+    color: chocolate;
+    
+}
+.android{
+    transform: translate(420px,-1013px);
+}
+.oneplus{
+    transform: translate(30px,-820px);
+    height: 10%;
+    width: 6%;
+}
+.vivo{
+    transform: translate(-53px,-735px);
+    height: 10%;
+    width: 6%;
+}
+.mi{
+    transform: translate(-140px,-660px);
+    height: 10%;
+    width: 6%;
+}
+.oppo{
+    transform: translate(-225px,-580px);
+    height: 14%;
+    width: 7%;
+}
+.realme{
+    transform: translate(-325px,-475px);
+    height: 20%;
+    width: 8%;
+}
+.samsung{
+    transform: translate(-420px,-440px);
+    height: 8%;
+    width: 6%;
+}

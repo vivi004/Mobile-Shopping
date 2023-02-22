@@ -1,0 +1,67 @@
+#vim{
+    margin-left: 500px;
+}
+body{
+ background-image: url(12blue.jpeg);
+ background-size: cover;
+ background-repeat: no-repeat;
+}
+h1{
+    text-align: center;
+}
+#nm{
+    margin-left: 90px;
+}
+.first{
+    color: rgb(65, 194, 155);
+}
+.second{
+    background-color: #2390cf;
+    width: 25%;
+    border-radius: 20px;
+    height: 25%;
+}
+.fourth{
+
+    height: 30%;
+    width: 30%;
+}
+.logo{
+   padding-bottom: 90px ;
+   width: 30%;
+   height: 36%;
+   transform: translate(20px,-74px);
+}
+.vivin:hover{
+background-color: aqua;
+border-radius: 70%;
+width: 150px;
+height: 150x;
+}
+.watt:hover{
+    background-color: blueviolet;
+    border-radius: 70%;
+}
+.oneplus{
+    height: 30%;
+    width: 30%;
+}
+.mi{
+    border-radius: 60%;
+    transform: translate(420px,25px);
+}
+.gif{
+    transform: translate(0px,-150px);
+}
+.none{
+    width: 600px;
+    height: 700px;
+    transform: translate(680px,-940px);
+}
+.discount{
+    transform: translate(0px,-800px);
+    width: 600px;
+}
+.sale{
+    transform: translate(700px,-1100px);
+}

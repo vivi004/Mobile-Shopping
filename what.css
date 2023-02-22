@@ -1,0 +1,12 @@
+body{
+    background-image: url(vivin.jpeg);
+    background-size: cover;
+    background-color: pink;
+}
+#des{
+    margin-left: 200px;
+}
+h1{
+    font-size: 2cm;
+    color: blueviolet;
+}
